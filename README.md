@@ -1,4 +1,4 @@
-<img width="6270" height="3659" alt="TutorialPage_05" src="https://github.com/user-attachments/assets/a32e9970-5c92-4b5e-a696-c60b1ce8e6bd" /># PBR Atlas Baker
+PBR Atlas Baker
 
 A Blender add-on that bakes **Base Color / Roughness / Metallic / Normal /
 Displacement** from any number of selected objects onto one shared UV atlas,
