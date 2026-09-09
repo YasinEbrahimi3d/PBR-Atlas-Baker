@@ -116,8 +116,6 @@ click.
 
 ## Known limitations
 
-- If an object has multiple material slots, only its `active_material` is
-  used as the source for baking.
 - Baking requires Cycles; the render engine is switched automatically and
   restored afterwards.
 - Large resolutions (2048/4096) combined with many objects will take
